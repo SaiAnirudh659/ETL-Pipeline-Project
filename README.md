@@ -1,6 +1,8 @@
 # 🛠️ ETL Pipeline Project
 
-This project demonstrates a basic **ETL (Extract, Transform, Load)** pipeline built using Python.
+🔁 ETL Pipeline (Extract, Transform, Load) built using Python.
+Extracts CSV data → Transforms it (cleanup, formatting) → Loads it into a new CSV.
+Structured with reusable modules & designed for real-world data engineering workflows.
 
 ---
 
